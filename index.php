@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php
+    echo "<h1>My first PHP file</h1>";
+    ?>
 </body>
 </html>
